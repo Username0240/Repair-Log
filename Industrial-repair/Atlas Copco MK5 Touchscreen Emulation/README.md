@@ -5,6 +5,6 @@ Modern devices today are so reliant on touchscreens. We even have cars where alm
 
 ## Screenshots
 
-![App Screenshot](Industrial-repair/Atlas Copco MK5 Touchscreen Emulation/image/Screenshot 2026-05-28 001814.png)
+![App Screenshot](https://github.com/Username0240/Repair-Log/blob/911553218d49df2b1167b16147127c8ec9aace63/Industrial-repair/Atlas%20Copco%20MK5%20Touchscreen%20Emulation/image/Screenshot%202026-05-28%20001814.png)
 
 
