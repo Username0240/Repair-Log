@@ -9,8 +9,16 @@ Modern devices today are so reliant on touchscreens. We even have cars where alm
 
 
 
-## Alternative
+## Alternatives
 
-Now, my solution was to first look for a replacement or an alternative way to turn on the machine. It is supposed to have a remote option where you can connect external switches to run the machine, and there is also a LAN option to control the machine through LAN, but both of these are not available in the system probably not in my firmware.
+Now, my solution was to first look for a replacement and an alternative way to turn on the machine. It is supposed to have a remote option where you can connect external switches to run the machine, and there is also a LAN option to control the machine through LAN, but both of these are not available in the system probably not in my firmware.
 
 ![App Screenshot](https://github.com/Username0240/Repair-Log/blob/main/Industrial-repair/Atlas%20Copco%20MK5%20Touchscreen%20Emulation/image/Screenshot%202026-05-28%20002920.png)
+
+But both local and remote control did not work thus ive devised a cheap solution to emulate the touch controller.
+
+## Solution
+
+![App Screenshot](https://github.com/Username0240/Repair-Log/blob/6bed3685882c2aaf5162b41c2db4eb5e063006b5/Industrial-repair/Atlas%20Copco%20MK5%20Touchscreen%20Emulation/image/2.png)
+
+And upon inspection, the system utilizes a Goodix GT911 touch controller, which uses an I2C bus to communicate directly with the main control panel.
