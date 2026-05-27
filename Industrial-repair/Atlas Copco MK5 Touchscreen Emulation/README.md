@@ -11,6 +11,6 @@ Modern devices today are so reliant on touchscreens. We even have cars where alm
 
 ## Alternative
 
-Now, my solution was to first look for a replacement and an alternative way to turn on the machine. It is supposed to have a remote option where you can connect external switches to run the machine, and there is also a LAN option to control the machine through LAN, but both of these are not available in the system probably not in my firmware.
+Now, my solution was to first look for a replacement or an alternative way to turn on the machine. It is supposed to have a remote option where you can connect external switches to run the machine, and there is also a LAN option to control the machine through LAN, but both of these are not available in the system probably not in my firmware.
 
 ![App Screenshot](https://github.com/Username0240/Repair-Log/blob/main/Industrial-repair/Atlas%20Copco%20MK5%20Touchscreen%20Emulation/image/Screenshot%202026-05-28%20002920.png)
