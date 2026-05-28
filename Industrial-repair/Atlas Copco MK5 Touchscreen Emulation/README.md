@@ -32,3 +32,16 @@ There are two compressor in the company with the same atlas mk5 control panel, o
 
 ![App Screenshot](https://github.com/Username0240/Repair-Log/blob/a0473a50e2884c2aaec802c67c9e2f38fec88c0e/Industrial-repair/Atlas%20Copco%20MK5%20Touchscreen%20Emulation/image/20260528_154403.jpg)
 
+## Setup Initial signal
+
+At boot-up the touch controller needs to be setup first it needs for the gt911 to read data from the control panel according to the gt911 goodix datasheet 
+ 
+![App Screenshot]()
+
+## Turn ON signal
+
+![App Screenshot]()
+
+## Turn Off signal
+
+![App Screenshot]()
