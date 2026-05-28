@@ -22,3 +22,13 @@ But both local and remote control did not work thus ive devised a cheap solution
 ![App Screenshot](https://github.com/Username0240/Repair-Log/blob/6bed3685882c2aaf5162b41c2db4eb5e063006b5/Industrial-repair/Atlas%20Copco%20MK5%20Touchscreen%20Emulation/image/2.png)
 
 And upon inspection, the system utilizes a Goodix GT911 touch controller, which uses an I2C bus to communicate directly with the main control panel.
+
+
+![App Screenshot](https://github.com/Username0240/Repair-Log/blob/6bed3685882c2aaf5162b41c)
+
+
+There are two compressor in the company with the same atlas mk5 control panel, one of the compressor control panel is working fully, since this has the same control panel and also the touch controller is the same we could use a logic analyzer to get the specific data that the touch controller send to the control panel to power on the system and also the turn off signal needs to be recorded too.
+
+
+
+
