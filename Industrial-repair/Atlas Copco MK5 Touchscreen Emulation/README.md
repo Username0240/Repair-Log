@@ -30,5 +30,5 @@ And upon inspection, the system utilizes a Goodix GT911 touch controller, which 
 There are two compressor in the company with the same atlas mk5 control panel, one of the compressor control panel is working fully, since this has the same control panel and also the touch controller is the same we could use a logic analyzer to get the specific data that the touch controller send to the control panel to power on the system and also the turn off signal needs to be recorded too.
 
 
-
+![App Screenshot]()
 
