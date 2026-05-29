@@ -59,6 +59,13 @@ For the software, I utilized the Arduino IDE and the native `Wire.h` library. As
 ## Actual Testing
 To test the control panel in the bench i also capture another touch coordinates that designates to the Menu and Home, this allow me to execute this command to verify that the touch is working without the actual compressor plugged in.
 
-<video src="https://github.com/Username0240/Repair-Log/blob/86c0e1ada72ee2d5c4d695f497d0b07047726298/Industrial-repair/Atlas%20Copco%20MK5%20Touchscreen%20Emulation/image/atlas%20test%20(1).mp4" controls width="100%">
-  Your browser does not support the video tag.
-</video>
+![App Screenshot](https://github.com/Username0240/Repair-Log/blob/613a2ceb6919e23f8a741473d8b4121fdc09afb9/Industrial-repair/Atlas%20Copco%20MK5%20Touchscreen%20Emulation/image/atlas%20test%20(1)%20(1).gif)
+
+After confirming that the control panel works at the compressor, Finalizing the circuit and making it permanently fasted to the board is all the work need to make the compressor operational again,
+For the final circuit arduino nano was chosen for its small size, instead of the arduino uno r3 that was used during testing. Also Capacitive touch button was used as I dont want to drill into the control panel when mounting a physical switch, if it fail it will probably get replaced with a proper physical switch.
+
+![App Screenshot](https://github.com/Username0240/Repair-Log/blob/3d9a2681aa23d256c1c0f9e085d6b7f99aabd364/Industrial-repair/Atlas%20Copco%20MK5%20Touchscreen%20Emulation/image/11%20(1).jpg)
+
+Here is the proof that it works. 
+![App Screenshot](https://github.com/Username0240/Repair-Log/blob/3d9a2681aa23d256c1c0f9e085d6b7f99aabd364/Industrial-repair/Atlas%20Copco%20MK5%20Touchscreen%20Emulation/image/11%20(1).jpg)
+
