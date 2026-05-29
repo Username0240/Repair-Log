@@ -27,7 +27,7 @@ And upon inspection, the system utilizes a Goodix GT911 touch controller, which 
 ![App Screenshot](https://github.com/Username0240/Repair-Log/blob/8f461c3828caa9d16eabd00ee661c155e14da2eb/Industrial-repair/Atlas%20Copco%20MK5%20Touchscreen%20Emulation/image/20260528_152959.jpg)
 
 
-There are two compressor in the company with the same atlas mk5 control panel, one of the compressor control panel is working fully, since this has the same control panel and also the touch controller is the same we could use a logic analyzer to get the specific data that the touch controller send to the control panel to power on the system and also the turn off signal needs to be recorded too.
+There are two compressors in the company with the same Atlas Mk5 control panel. One of the compressor control panels is fully working. Since it has the exact same control panel and touch controller, we could use a logic analyzer to capture the specific data that the touch controller sends to the control panel to power on the system. The turn-off signal needs to be recorded as well.
 
 
 ![App Screenshot](https://github.com/Username0240/Repair-Log/blob/a0473a50e2884c2aaec802c67c9e2f38fec88c0e/Industrial-repair/Atlas%20Copco%20MK5%20Touchscreen%20Emulation/image/20260528_154403.jpg)
