@@ -44,4 +44,4 @@ At boot-up the touch controller needs to be setup first it needs for the gt911 t
 
 ## Turn Off signal
 
-![App Screenshot]()
+![App Screenshot](https://github.com/Username0240/Repair-Log/blob/06cbbd388cfac55627589c0a4f3babedc6002c55/Industrial-repair/Atlas%20Copco%20MK5%20Touchscreen%20Emulation/image/asdf2.png)
