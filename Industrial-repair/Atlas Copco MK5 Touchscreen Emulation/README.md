@@ -67,5 +67,5 @@ For the final circuit arduino nano was chosen for its small size, instead of the
 ![App Screenshot](https://github.com/Username0240/Repair-Log/blob/3d9a2681aa23d256c1c0f9e085d6b7f99aabd364/Industrial-repair/Atlas%20Copco%20MK5%20Touchscreen%20Emulation/image/11%20(1).jpg)
 
 Here is the proof that it works. 
-![App Screenshot](https://github.com/Username0240/Repair-Log/blob/3d9a2681aa23d256c1c0f9e085d6b7f99aabd364/Industrial-repair/Atlas%20Copco%20MK5%20Touchscreen%20Emulation/image/11%20(1).jpg)
+![App Screenshot](https://github.com/Username0240/Repair-Log/blob/0f56a6995395eeacd7620754b37e27113199f809/Industrial-repair/Atlas%20Copco%20MK5%20Touchscreen%20Emulation/image/atlas%20touch%20test.gif)
 
