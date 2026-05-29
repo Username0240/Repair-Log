@@ -45,3 +45,7 @@ At boot-up the touch controller needs to be setup first it needs for the gt911 t
 ## Turn Off signal
 
 ![App Screenshot](https://github.com/Username0240/Repair-Log/blob/06cbbd388cfac55627589c0a4f3babedc6002c55/Industrial-repair/Atlas%20Copco%20MK5%20Touchscreen%20Emulation/image/asdf2.png)
+
+After getting the turn-on and turn-off data packets, a microcontroller just needs to be programmed to send the signal to the control panel.
+
+![App Screenshot](https://github.com/Username0240/Repair-Log/blob/55689c9eb8813488f9479e758553e77fe2294ad5/Industrial-repair/Atlas%20Copco%20MK5%20Touchscreen%20Emulation/image/ezgif-7279ec69e0b72955.gif)
