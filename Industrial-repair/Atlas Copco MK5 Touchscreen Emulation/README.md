@@ -9,7 +9,7 @@ Modern devices today are so reliant on touchscreens. We even have cars where alm
 
 
 
-## Alternatives
+# Alternative Solution
 
 Now, my solution was to first look for a replacement and an alternative way to turn on the machine. It is supposed to have a remote option where you can connect external switches to run the machine, and there is also a LAN option to control the machine through LAN, but both of these are not available in the system probably not in my firmware.
 
@@ -17,7 +17,7 @@ Now, my solution was to first look for a replacement and an alternative way to t
 
 But both local and remote control did not work thus ive devised a cheap solution to emulate the touch controller.
 
-## Solution
+# Solution
 
 ![App Screenshot](https://github.com/Username0240/Repair-Log/blob/6bed3685882c2aaf5162b41c2db4eb5e063006b5/Industrial-repair/Atlas%20Copco%20MK5%20Touchscreen%20Emulation/image/2.png)
 
@@ -46,6 +46,19 @@ At boot-up the touch controller needs to be setup first it needs for the gt911 t
 
 ![App Screenshot](https://github.com/Username0240/Repair-Log/blob/06cbbd388cfac55627589c0a4f3babedc6002c55/Industrial-repair/Atlas%20Copco%20MK5%20Touchscreen%20Emulation/image/asdf2.png)
 
+## Circuit
 After getting the turn-on and turn-off data packets, a microcontroller just needs to be programmed to send the signal to the control panel.
 
 ![App Screenshot](https://github.com/Username0240/Repair-Log/blob/55689c9eb8813488f9479e758553e77fe2294ad5/Industrial-repair/Atlas%20Copco%20MK5%20Touchscreen%20Emulation/image/ezgif-7279ec69e0b72955.gif)
+
+## Software
+For the software, I utilized the Arduino IDE and the native `Wire.h` library. As shown in the image, the exact 6-byte data packets required to trigger the system are stored in memory arrays, ready to be executed and transmitted to the control panel to emulate the compressor's turn-on and turn-off actions.
+
+![App Screenshot](https://github.com/Username0240/Repair-Log/blob/9fc2cd82efe88b97a9adce9a6357aef0f4d0d741/Industrial-repair/Atlas%20Copco%20MK5%20Touchscreen%20Emulation/image/c57a975b-e26b-45f3-b962-f2369b1b6878.jfif)
+
+## Actual Testing
+To test the control panel in the bench i also capture another touch coordinates that designates to the Menu and Home, this allow me to execute this command to verify that the touch is working without the actual compressor plugged in.
+
+<video src="https://github.com/Username0240/Repair-Log/blob/86c0e1ada72ee2d5c4d695f497d0b07047726298/Industrial-repair/Atlas%20Copco%20MK5%20Touchscreen%20Emulation/image/atlas%20test%20(1).mp4" controls width="100%">
+  Your browser does not support the video tag.
+</video>
